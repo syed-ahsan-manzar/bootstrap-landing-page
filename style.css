@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+li{
+    list-style:none;
+}
+.facts-numbers,.eq,.price-title,.price-subtitle{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.price-value{
+    font-size: 60px;
+}
+.test{
+    position:relative ;
+    top: 100px;
+}
+.size{
+    font-size: 13px;
+}
+.color{
+    background-color: rgb(246, 242, 242);
+}
+
